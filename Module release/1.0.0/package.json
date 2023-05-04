@@ -1,0 +1,31 @@
+{
+  "name": "model",
+  "version": "1.0.0",
+  "description": "Model is a node.js module that uses a new AI technology that finds the best output for a given input in a IO JSON datase. It is very fast and efficient, and can be used for many things, such as: Text matching, image matching, object detection, sound detection, speech to text, text to speech, make a LLM (Large language model), and much more.",
+  "main": "model.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AI",
+    "model",
+    "match",
+    "text",
+    "input",
+    "output",
+    "I",
+    "O",
+    "I/O",
+    "IO",
+    "Node",
+    "Node.js",
+    "Node",
+    "js",
+    "Nodejs"
+  ],
+  "author": "Willmil11",
+  "license": "ISC",
+  "docs": "http://89.159.202.47/Model/docs.html",
+  "dev's-email": "willmil1110@gmail.com",
+  "dev's-discord": "willmil11#8988"
+}
